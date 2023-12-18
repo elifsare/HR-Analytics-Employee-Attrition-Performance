@@ -1,4 +1,4 @@
-# IBM HR Analytics Employee Attrition Analysis
+# HR Analytics Employee Attrition Analysis
 This repository contains Python code for analyzing employee attrition using the IBM HR Analytics dataset. The dataset provides information about employees, their work environment, and whether they left the company (attrition) or stayed. The analysis involves data preprocessing, exploration, feature engineering, and the training of machine learning models for predicting employee attrition.
 
 ## Table of Contents
